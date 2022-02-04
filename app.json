@@ -20,7 +20,7 @@
         "HNDLR": {
             "description": "this will be used as a prefix in all commands",
             "required": false,
-            "value": "/"
+            "value": ","
         },
         "API_HASH": {
             "description": "Input HASH API Please Download from my.telegram.org/apps",
